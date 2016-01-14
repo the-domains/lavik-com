@@ -1,0 +1,29 @@
+name: lavik.com
+favicon: null
+layout_spectrum: 0.18229850218631327
+typography_spectrum: 0.12474486231803894
+title: Stian Laviks vindu mot verden
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.43582749692723155
+  lightness: 0.8016520782839507
+  saturation: 0.6902514835819602
+  rhythmicContrast: 0.09931211499497294
+purpose: []
